@@ -11,7 +11,7 @@
 
 - :nut_and_bolt: Learning: **RTK, Node, Next**
 - :earth_asia: Currently in: **Astana**
-- :satellite: Rach me by: **[Telegram](https://t.me/muwa1337)**
+- :satellite: Reach me by: **[Telegram](https://t.me/muwa1337)**
 - :alien: I speak: **English, Russian**
 
 ### Languages and tools
