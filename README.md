@@ -9,7 +9,6 @@
 
 ### About me
 
-- :nut_and_bolt: Learning: **RTK, Node, Next**
 - :earth_asia: Currently in: **Astana**
 - :satellite: Reach me by: **[Telegram](https://t.me/muwa1337)**
 - :alien: I speak: **English, Russian**
@@ -25,4 +24,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vite" width="40" height="40"/>&nbsp;
